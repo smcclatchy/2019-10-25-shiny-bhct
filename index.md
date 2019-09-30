@@ -176,6 +176,8 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 2' to be actual dates or days of the week.
 {% endcomment %}
 
+{% include sc/schedule.html %}
+
 {% comment %}
 Collaborative Notes
 
