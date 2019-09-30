@@ -4,10 +4,10 @@ carpentry: ""
 venue: "Shiny for Interactive Web Apps" 
 address: "The Jackson Laboratory for Genomic Medicine, 10 Discovery Dr, Room 2440, Farmington CT"
 country: "us"
-language: "en""
+language: "en"
 latlng: "41.732449,-72.793652"
-humandate: "Oct 25, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "Oct 25, 2019"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humandate: "Oct 25, 2019"    
+humantime: "Oct 25, 2019"    
 startdate: 2019-10-25  
 enddate: 2019-10-25   
 instructor: ["Sandeep Namburi"] 
@@ -27,7 +27,6 @@ If the value is not 'true', 'false', 'null', or a number, please use
 double quotation marks around the value, unless specified otherwise.
 And run 'make workshop-check' *before* committing to make sure that changes are good.
 {% endcomment %}
-
 
 {% comment %}
 EVENTBRITE
