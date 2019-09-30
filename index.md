@@ -49,20 +49,13 @@ displayed if the 'eventbrite' field in the header is not set.
 
 
 <h2 id="general">General Information</h2>
-
-
-INTRODUCTION
-
 Shiny is an R package that makes it easy to build interactive web apps. Shiny apps are easy to write and don't require web development skills. This workshop will get you started building Shiny apps right away. <a href="https://shiny.rstudio.com/gallery/">Visit the Gallery</a> for examples of interactive web apps built with Shiny.
 
-Prerequisite: Software Carpentry's <a href="https://swcarpentry.github.io/r-novice-gapminder/">R for Reproducible Scientific Analysis</a>, or R programming competence obtained otherwise.
+<strong>Prerequisite:</strong> Software Carpentry's <a href="https://swcarpentry.github.io/r-novice-gapminder/">R for Reproducible Scientific Analysis</a>, or R programming competence obtained otherwise.
 
 To preview the workshop materials, see these <a href="https://shiny.rstudio.com/tutorial/#written-tutorials">written Shiny tutorials</a>.
 
-
-AUDIENCE
-
-This workshop is open to those from neighboring institutions and is free of charge. Participants must attend in person in Bar Harbor ME or Farmington CT. Remote attendance will not be supported otherwise.
+This workshop is open to those from neighboring institutions and is free of charge. Participants must attend in person at the Jackson Laboratory in either Bar Harbor ME or Farmington CT. Remote attendance will not be supported otherwise.
 
 {% comment %}
 LOCATION
@@ -168,18 +161,10 @@ Display the contact email address set in the configuration file.
 {% comment %} 
 SURVEYS - DO NOT EDIT SURVEY LINKS 
 {% endcomment %}
-<h2 id="surveys">Surveys</h2>
-<p>Please be sure to complete these surveys before and after the workshop.</p>
-{% if site.carpentry == "swc" %} 
-<p><a href="{{ site.swc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
+<h2 id="surveys">Survey</h2>
+<p>Please be sure to complete this survey after the workshop.</p>
 <p><a href="{{ site.swc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
-{% elsif site.carpentry == "dc" %}
-<p><a href="{{ site.dc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
-<p><a href="{{ site.dc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
-{% elsif site.carpentry == "lc" %}
-<p><a href="{{ site.lc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
-<p><a href="{{ site.lc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
-{% endif %}
+
 
 <hr/>
 
