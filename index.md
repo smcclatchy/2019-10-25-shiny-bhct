@@ -50,7 +50,7 @@ displayed if the 'eventbrite' field in the header is not set.
 
 <h2 id="general">General Information</h2>
 
-{% comment %}
+
 INTRODUCTION
 
 Shiny is an R package that makes it easy to build interactive web apps. Shiny apps are easy to write and don't require web development skills. This workshop will get you started building Shiny apps right away. <a href="https://shiny.rstudio.com/gallery/">Visit the Gallery</a> for examples of interactive web apps built with Shiny.
@@ -59,7 +59,7 @@ Prerequisite: Software Carpentry's <a href="https://swcarpentry.github.io/r-novi
 
 To preview the workshop materials, see these <a href="https://shiny.rstudio.com/tutorial/#written-tutorials">written Shiny tutorials</a>.
 
-{% comment %}
+
 AUDIENCE
 
 This workshop is open to those from neighboring institutions and is free of charge. Participants must attend in person in Bar Harbor ME or Farmington CT. Remote attendance will not be supported otherwise.
@@ -261,6 +261,7 @@ please preview your site before committing, and make sure to run
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
+
 <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
   <h3>R</h3>
 
