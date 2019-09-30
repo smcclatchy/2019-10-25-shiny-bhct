@@ -7,7 +7,7 @@ country: "us"
 language: "en"
 latlng: "41.732449,-72.793652"
 humandate: "Oct 25, 2019"    
-humantime: "Oct 25, 2019"    
+humantime: "9am - 12pm"    
 startdate: 2019-10-25  
 enddate: 2019-10-25   
 instructor: ["Sandeep Namburi"] 
