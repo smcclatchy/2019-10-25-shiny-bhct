@@ -11,7 +11,7 @@ humantime: "9am - 12pm"
 startdate: 2019-10-25  
 enddate: 2019-10-25   
 instructor: ["Sandeep Namburi"] 
-helper: ["Sue McClatchy"] 
+helper: ["Sue McClatchy", "Annat Haber", "Diogo Troggian Veiga"] 
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite: 74725001491
