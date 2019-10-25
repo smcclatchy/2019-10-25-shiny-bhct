@@ -230,8 +230,9 @@ please preview your site before committing, and make sure to run
 'tools/check' as well.
 {% endcomment %}
 
-<p>[Link to Slides](https://docs.google.com/presentation/d/1L2ipA6CeG8kp708F-ocrCFsbH5hHjc9vruSuWtEZK6o/edit?usp=sharing)</p>
-<p>[Link to Github Code](https://github.com/TheJacksonLaboratory/rshiny-tutorial)</p>
+[Link to Slides](https://docs.google.com/presentation/d/1L2ipA6CeG8kp708F-ocrCFsbH5hHjc9vruSuWtEZK6o/edit?usp=sharing)
+<br />
+[Link to Github Code](https://github.com/TheJacksonLaboratory/rshiny-tutorial)
 
 <h2 id="setup">Setup</h2>
 
