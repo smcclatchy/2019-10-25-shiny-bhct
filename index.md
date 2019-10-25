@@ -216,6 +216,9 @@ please preview your site before committing, and make sure to run
 <hr/>
 
 {% comment %}
+
+
+
 SETUP
 
 Delete irrelevant sections from the setup instructions.  Each
@@ -226,6 +229,9 @@ This is the other place where people frequently make mistakes, so
 please preview your site before committing, and make sure to run
 'tools/check' as well.
 {% endcomment %}
+
+[Link to Slides](https://docs.google.com/presentation/d/1L2ipA6CeG8kp708F-ocrCFsbH5hHjc9vruSuWtEZK6o/edit?usp=sharing)
+[Link to Github Code](https://github.com/TheJacksonLaboratory/rshiny-tutorial)
 
 <h2 id="setup">Setup</h2>
 
