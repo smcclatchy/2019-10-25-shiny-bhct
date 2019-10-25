@@ -230,7 +230,7 @@ please preview your site before committing, and make sure to run
 'tools/check' as well.
 {% endcomment %}
 
-[Link to Slides](https://docs.google.com/presentation/d/1L2ipA6CeG8kp708F-ocrCFsbH5hHjc9vruSuWtEZK6o/edit?usp=sharing)
+[Link to Slides](https://docs.google.com/presentation/d/1azYYubt85XtjyO8x0x72xJoaq8wtrQSKsK4kDqbD1gU/edit?usp=sharing)
 <br />
 [Link to Github Code](https://github.com/TheJacksonLaboratory/rshiny-tutorial)
 
