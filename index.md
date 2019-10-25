@@ -289,7 +289,7 @@ please preview your site before committing, and make sure to run
       <article role="tabpanel" class="tab-pane active" id="rstats-macos">
         <a href="https://www.youtube.com/watch?v=5-ly3kyxwEg">Video Tutorial</a>
         <p>
-          Install R by downloading and running
+          Install R by downloading and running 
           <a href="https://cran.r-project.org/bin/macosx/R-latest.pkg">this .pkg file</a>
           from <a href="https://cran.r-project.org/index.html">CRAN</a>.
           Also, please install the
